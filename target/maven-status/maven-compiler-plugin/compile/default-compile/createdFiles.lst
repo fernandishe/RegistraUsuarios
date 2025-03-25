@@ -1,0 +1,16 @@
+cl\fernandishe\usuario\controller\ResponseHandler.class
+cl\fernandishe\usuario\entity\Phones.class
+cl\fernandishe\usuario\Service\PhoneService.class
+cl\fernandishe\usuario\Service\UsuarioService.class
+cl\fernandishe\usuario\model\UsuarioResponse.class
+cl\fernandishe\usuario\entity\Usuario.class
+cl\fernandishe\usuario\config\SwaggerConfig.class
+cl\fernandishe\usuario\model\Response.class
+cl\fernandishe\usuario\security\JwtAuthenticationToken.class
+cl\fernandishe\usuario\Application.class
+cl\fernandishe\usuario\controller\UsuarioController.class
+cl\fernandishe\usuario\utils\JwtAuthenticationFilter.class
+cl\fernandishe\usuario\controller\AuthController.class
+cl\fernandishe\usuario\Repository\UsuarioRepository.class
+cl\fernandishe\usuario\security\SecurityConfig.class
+cl\fernandishe\usuario\utils\JwtTokenUtil.class
